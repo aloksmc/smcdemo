@@ -1,2 +1,3 @@
 # smcdemo
-This my first SMC Demo
+This is my first SMC Demo
+My name is Alok Dixit
